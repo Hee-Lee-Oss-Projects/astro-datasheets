@@ -1,0 +1,29 @@
+{
+  "id": "astro-datasheets-datasheet-template-001",
+  "title": "Astronomy dataset datasheet template",
+  "project": "astro-datasheets",
+  "type": "data",
+  "lane": "donated",
+  "priority": "high",
+  "domain": [
+    "astronomy",
+    "open-data",
+    "open-science"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "small",
+  "status": "open",
+  "context": "Consistency and license-traceability need a template.",
+  "objective": "Define the astronomy datasheet template (survey, coverage, key tables/columns, access, license/terms, caveats, citation).",
+  "acceptanceCriteria": [
+    "Template covers coverage, access, license, and caveats",
+    "Includes a worked example entry",
+    "CC-BY-4.0 header"
+  ],
+  "output": "deliverables/datasheet-template-001.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
