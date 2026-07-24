@@ -1,0 +1,30 @@
+{
+  "id": "astro-datasheets-datasheet-2mass-two-micron-all-sky-surve-004",
+  "title": "Datasheet: 2MASS (Two Micron All-Sky Survey)",
+  "project": "astro-datasheets",
+  "type": "data",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "astronomy",
+    "open-data",
+    "open-science"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "2MASS (Two Micron All-Sky Survey) is a widely-used open dataset that researchers and learners need accurately documented.",
+  "objective": "Write a datasheet for 2MASS (Two Micron All-Sky Survey) following the template: coverage, key contents, access method, license/terms, caveats, and citation.",
+  "acceptanceCriteria": [
+    "Accurate coverage, contents, and access method for 2MASS (Two Micron All-Sky Survey)",
+    "Records the IPAC/2MASS use terms correctly with a link",
+    "Notes key caveats/limitations",
+    "License header + citation"
+  ],
+  "output": "deliverables/astro-datasheets-datasheet-2mass-two-micron-all-sky-surve-004.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

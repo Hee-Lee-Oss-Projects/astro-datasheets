@@ -1,0 +1,30 @@
+{
+  "id": "astro-datasheets-datasheet-tess-mission-data-products-006",
+  "title": "Datasheet: TESS (mission data products)",
+  "project": "astro-datasheets",
+  "type": "data",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "astronomy",
+    "open-data",
+    "open-science"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "TESS (mission data products) is a widely-used open dataset that researchers and learners need accurately documented.",
+  "objective": "Write a datasheet for TESS (mission data products) following the template: coverage, key contents, access method, license/terms, caveats, and citation.",
+  "acceptanceCriteria": [
+    "Accurate coverage, contents, and access method for TESS (mission data products)",
+    "Records the MAST/TESS use terms correctly with a link",
+    "Notes key caveats/limitations",
+    "License header + citation"
+  ],
+  "output": "deliverables/astro-datasheets-datasheet-tess-mission-data-products-006.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
